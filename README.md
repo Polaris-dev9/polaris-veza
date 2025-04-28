@@ -1,15 +1,3 @@
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/kyranet/veza/main/static/logo.png" height="200">
-
-# Veza
-
-[![Discord](https://discordapp.com/api/guilds/582495121698717696/embed.png)](https://discord.gg/pE5sfxK)
-[![npm version](https://img.shields.io/npm/v/veza?color=crimson&logo=npm&style=flat-square)](https://www.npmjs.com/package/veza)
-[![npm downloads](https://img.shields.io/npm/dt/veza?color=crimson&logo=npm&style=flat-square)](https://www.npmjs.com/package/veza)
-[![Patreon](https://img.shields.io/badge/donate-patreon-F96854.svg?logo=patreon)](https://donate.skyra.pw/patreon)
-
-</div>
 
 ## About
 
