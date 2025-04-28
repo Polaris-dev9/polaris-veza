@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/kyranet/veza/main/static/logo.png" height="200">
+<img src="https://raw.githubusercontent.com/Polaris-dev9/veza/main/static/logo.png" height="200">
 
 # Veza
 
@@ -42,12 +42,12 @@ amount of bytes possible, increasing throughput; plus a 11-byte header at the st
 available in [PROTOCOL].
 
 [binarytf]: https://www.npmjs.com/package/binarytf
-[protocol]: https://github.com/kyranet/veza/blob/master/PROTOCOL.md
+[protocol]: https://github.com/Polaris-dev9/veza/blob/master/PROTOCOL.md
 
 ## Documentation
 
-All the documentation is available at [veza.js.org] and at [the wiki](https://github.com/kyranet/veza/wiki). You can
-find examples of code [here](https://github.com/kyranet/veza/tree/master/examples).
+All the documentation is available at [veza.js.org] and at [the wiki](https://github.com/Polaris-dev9/veza/wiki). You can
+find examples of code [here](https://github.com/Polaris-dev9/veza/tree/master/examples).
 
 [veza.js.org]: https://veza.js.org/
 
@@ -61,12 +61,12 @@ find examples of code [here](https://github.com/kyranet/veza/tree/master/example
 
 ## Author
 
-**veza** © [kyranet][author], released under the
+**veza** © [Polaris-dev9][author], released under the
 [MIT][license] License.
-Authored and maintained by kyranet.
+Authored and maintained by Polaris-dev9.
 
-> Github [kyranet][author] - Twitter [@kyranet\_][twitter]
+> Github [Polaris-dev9][author] - Twitter [@Polaris-dev9\_][twitter]
 
-[license]: https://github.com/kyranet/veza/blob/master/LICENSE.md
-[author]: https://github.com/kyranet
-[twitter]: https://twitter.com/kyranet_
+[license]: https://github.com/Polaris-dev9/veza/blob/master/LICENSE.md
+[author]: https://github.com/Polaris-dev9
+[twitter]: https://twitter.com/Polaris-dev9_
